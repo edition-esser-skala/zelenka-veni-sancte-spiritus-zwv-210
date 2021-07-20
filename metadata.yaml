@@ -1,0 +1,17 @@
+composer: Zelenka, Jan Dismas
+title: Veni Sancte Spiritus
+id: ZWV 210
+genre: antiphon
+scoring: S, A, T, B (coro), 4 clno (D), timp (D–A), 2 ob, 2 vl, vla, b, org
+sources:
+  1:
+    siglum: D-Dl
+    shelfmark: Mus.2358-E-24
+    type: autograph manuscript
+    date: 1739
+    rism: 212006634
+    url: http://digital.slub-dresden.de/id42660346X
+github: zelenka-veni-sancte-spiritus-zwv-210
+imslp: Veni_sancte_spiritus_reple,_ZWV_210_(Zelenka,_Jan_Dismas)
+notes:
+
